@@ -5,6 +5,7 @@
 ## 博客列表
 
 - [WeLM：以适度资源构建高效稀疏 MoE 模型 - 技术总结](./WeLM_1.md)
+- [WeLM-258B MoE：后训练 (Post-Training) 技术与实战总结](./WeLM_2.md)
 
 ## 关于 WeLM
 
